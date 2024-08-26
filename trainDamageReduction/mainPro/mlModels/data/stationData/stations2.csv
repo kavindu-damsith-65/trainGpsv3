@@ -1,0 +1,89 @@
+#line,#station_B,accSum
+Main Line,Fort,30
+Main Line,Maradana,23
+Main Line,Kelaniya,4
+Main Line,Hunupitiya,32
+Main Line,Horape,13
+Main Line,Walpola,15
+Main Line,Bulugahagoda,18
+Main Line,Yagoda,12
+Main Line,Daraluwa,16
+Main Line,Magelegoda,11
+Main Line,Veyangoda,28
+Main Line,Keenawala,18
+Main Line,Ganegoda,27
+Main Line,Mihirigama,25
+Main Line,Botale,21
+Main Line,Yattalgoda,34
+Main Line,Alawwa,20
+Main Line,Poplgahawela,18
+Main Line,Tismalpola,12
+Main Line,Rambukkana,29
+Main Line,Gangoda,27
+Main Line,Balana,22
+Main Line,Pilimatalawa,25
+Main Line,Koshinna,15
+Matale Line,Kandy,15
+Matale Line,Katugastota,17
+Matale Line,Wattegama,15
+Matale Line,Udaththawala,8
+Matale Line,Matale,10
+Puttlam Line,Kandana,16
+Puttlam Line,Ja-Ela,15
+Puttlam Line,Kudahakapola,22
+Puttlam Line,Seeduwa,13
+Puttlam Line,Katunayaka Airport,15
+Puttlam Line,Trade Zoone,22
+Puttlam Line,Negombo,6
+Puttlam Line,Kochchikade,21
+Puttlam Line,Bolawatte,10
+Puttlam Line,Lunuwila,10
+Puttlam Line,Nattandiya,13
+Puttlam Line,Kudawewa,11
+Puttlam Line,Madampe,28
+Puttlam Line,Sawarana,10
+Puttlam Line,Manuwangama,27
+Puttlam Line,Arachchikattuwa,20
+Puttlam Line,Battaluoya,16
+Puttlam Line,Mundal,18
+Puttlam Line,Madurankuliya,21
+Puttlam Line,Palavi,12
+Puttlam Line,Puttalam,15
+Puttlam Line,Karadipuwar,22
+Puttlam Line,Girambe,16
+Puttlam Line,Potuhera,21
+Puttlam Line,Kurunegala,10
+Coast Line,Secretartat Halt,11
+Coast Line,Kollupitiya,6
+Coast Line,wellawatte,0
+Coast Line,Mount Laviniya,16
+Coast Line,Angulana,7
+Coast Line,Moratuwa,4
+Coast Line,Egodauyana,26
+Coast Line,Pinwatte,34
+Coast Line,Train Halt 01,18
+Coast Line,Kaluthara South,7
+Coast Line,Payagala North,24
+Coast Line,Maggona,32
+Coast Line,Hettimulla,18
+Coast Line,Bentota,19
+Coast Line,Mha Induruwa,15
+Coast Line,Piyagama,12
+Coast Line,Patagamgoda,25
+Coast Line,Andadola,18
+Coast Line,Ambalangoda,25
+Coast Line,Akurala,33
+Coast Line,Telwatte,11
+Coast Line,Hikkaduwa,19
+Coast Line,Kumarakanda,18
+Coast Line,Rathgama,12
+Coast Line,Ginthota,11
+Coast Line,Richmond Hill,13
+Coast Line,Katugoda,18
+Coast Line,Taple,16
+Coast Line,Koggala,16
+Coast Line,Ahangama,21
+Coast Line,Kumbalgama,11
+Coast Line,Polwathumodara,11
+Coast Line,Kamburugamuwa,22
+Coast Line,Matara,34

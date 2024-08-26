@@ -1,0 +1,88 @@
+#line,#station_A,#station_B,#distance(KM),passanger_fallen_from_train,railway_crossing_vehicle_accident,railway_crossing_human_accident,animal_accidents
+Main Line,Fort,Maradana,1.9,17,0,1,0
+Main Line,Dematagoda,Kelaniya,3.2,1,0,1,0
+Main Line,Wanawasala,Hunupitiya,1.3,6,7,6,0
+Main Line,Enderamulla,Horape,2.3,0,2,5,1
+Main Line,Ragama,Walpola,2.5,6,1,0,2
+Main Line,Batuwatte,Bulugahagoda,1.6,1,2,4,2
+Main Line,Ganemulla,Yagoda,1.8,2,2,2,0
+Main Line,Gampaha,Daraluwa,2.3,3,3,4,1
+Main Line,Bemmulla,Magelegoda,2.2,3,0,4,0
+Main Line,Heendeniya,Veyangoda,1.8,8,3,6,0
+Main Line,Wandurawa,Keenawala,2.2,3,3,2,3
+Main Line,Pallewala,Ganegoda,2.3,10,3,0,4
+Main Line,Wijayarajadahana,Mihirigama,1.1,5,3,5,2
+Main Line,Wilwatte,Botale,2.3,4,3,2,6
+Main Line,Abeypussa,Yattalgoda,3.6,5,5,4,10
+Main Line,Buthgamuwa,Alawwa,3.7,2,4,3,4
+Main Line,Wlakubura,Poplgahawela,4,2,1,3,6
+Main Line,Panaleeya,Tismalpola,1,0,2,2,6
+Main Line,Yatagama,Rambukkana,1.8,5,2,5,7
+Main Line,Kadigamuwa,Gangoda,3.5,4,2,3,8
+Main Line,Ihalakotte,Balana,5,7,1,3,3
+Main Line,Kadugannawa,Pilimatalawa,3.9,6,2,2,5
+Main Line,Peradeniya,Koshinna,2.5,1,5,1,3
+Matale Line,Sarasaviuyana,Kandy,5,1,2,4,2
+Matale Line,Mahaiyawa,Katugastota,2,6,4,1,2
+Matale Line,Udatalawinna,Wattegama,4,1,6,2,1
+Matale Line,Pathanpha,Udaththawala,4,2,2,0,1
+Matale Line,Ukuwela,Matale,5,0,0,2,3
+Puttlam Line,Peralanda,Kandana,1,8,1,0,1
+Puttlam Line,Kapuwatte,Ja-Ela,2,2,0,6,1
+Puttlam Line,Tudella,Kudahakapola,2,8,4,0,2
+Puttlam Line,Alawatupitiya,Seeduwa,2,2,2,4,1
+Puttlam Line,Liyanagemulla,Katunayaka Airport,3,8,0,0,3
+Puttlam Line,Katunayake,Trade Zoone,1,2,3,5,1
+Puttlam Line,Kurana,Negombo,3,3,0,0,0
+Puttlam Line,kattuwa,Kochchikade,3,1,4,6,3
+Puttlam Line,Waikkala,Bolawatte,2,1,2,2,2
+Puttlam Line,Borelessa,Lunuwila,3,5,0,1,2
+Puttlam Line,Tummodara,Nattandiya,5,2,2,0,5
+Puttlam Line,Walahapitiya,Kudawewa,2,1,2,2,3
+Puttlam Line,Nelumpokuna,Madampe,1,4,6,3,6
+Puttlam Line,Kakkapalliya,Sawarana,3,1,0,0,5
+Puttlam Line,Chilaw,Manuwangama,6,2,2,5,6
+Puttlam Line,Bangadeniya,Arachchikattuwa,5,4,4,0,4
+Puttlam Line,Anawilundawa,Battaluoya,2,3,2,2,3
+Puttlam Line,Pulachchikulam,Mundal,4,2,2,6,4
+Puttlam Line,Mangalaeliya,Madurankuliya,5,5,6,4,1
+Puttlam Line,Erukkalam pendu,Palavi,2,3,0,2,3
+Puttlam Line,Thilladiya,Puttalam,3,0,4,4,2
+Puttlam Line,Noor Nagar,Karadipuwar,8,8,2,2,3
+Puttlam Line,Periyanagavillu,Girambe,10,4,2,0,5
+Puttlam Line,Talawattegedara,Potuhera,5,8,2,1,2
+Puttlam Line,Nailiya,Kurunegala,4,2,2,0,3
+Coast Line,Fort,Secretartat Halt,0.6,2,2,2,2
+Coast Line,Kompnnavidiya,Kollupitiya,2,0,2,1,0
+Coast Line,Bambalapitiya,wellawatte,2,0,0,0,0
+Coast Line,Dehiwala,Mount Laviniya,3,6,1,2,1
+Coast Line,Rathmalana,Angulana,1,4,0,0,1
+Coast Line,Lunawa,Moratuwa,1,0,0,0,4
+Coast Line,Koralawella,Egodauyana,2,2,4,2,11
+Coast Line,Panadura,Pinwatte,3,1,10,8,6
+Coast Line,Wadduwa,Train Halt 01,4,4,2,1,5
+Coast Line,Kalutara North,Kaluthara South,2,0,0,1,3
+Coast Line,Katukurunda,Payagala North,4,1,2,6,7
+Coast Line,Payagala south,Maggona,2,1,7,7,5
+Coast Line,Beruwala,Hettimulla,2,0,6,3,2
+Coast Line,Aluthgama,Bentota,1,2,4,2,4
+Coast Line,Induruwa,Mha Induruwa,3,0,2,2,5
+Coast Line,kosgoda,Piyagama,1,0,2,3,3
+Coast Line,Ahungalle,Patagamgoda,3,10,2,3,2
+Coast Line,Balapitiya,Andadola,1,6,1,3,1
+Coast Line,Kandegoda,Ambalangoda,2,2,8,5,0
+Coast Line,Madampagama,Akurala,2,9,0,10,5
+Coast Line,Kahawa,Telwatte,2,2,0,3,2
+Coast Line,Seenigama,Hikkaduwa,3,9,1,1,3
+Coast Line,Thiranagama,Kumarakanda,2,4,3,4,0
+Coast Line,Dodanduwa,Rathgama,1,2,0,6,0
+Coast Line,Boossa,Ginthota,3,2,2,3,0
+Coast Line,Piyadigama,Richmond Hill,2,2,2,2,1
+Coast Line,Galle,Katugoda,5,0,3,4,6
+Coast Line,Unawatuna,Taple,5,4,4,2,2
+Coast Line,Habaraduwa,Koggala,2,6,2,1,2
+Coast Line,Kathaluwa,Ahangama,3,2,7,0,3
+Coast Line,Midigama,Kumbalgama,2,0,4,1,4
+Coast Line,weligama,Polwathumodara,4,4,0,2,3
+Coast Line,Mirissa,Kamburugamuwa,4,6,4,1,5
+Coast Line,Walgama,Matara,2,14,6,1,3
